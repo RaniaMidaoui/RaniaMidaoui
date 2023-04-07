@@ -27,6 +27,20 @@ Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student a
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/typescript.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"  width="40" height="40" /></a>&nbsp;
 
+### Cybersecurity Journey - PWN, OSINT and Misc player with [SOter14](https://soter14.tech) - Member Of [Securinets](https://securinets.tn) Technical Team
+- Played more than 20 CTFs, since 2021.
+- SOter14 is ranked first in Tunisia and made it to the top 50 globally.
+- SOter14 was qualified for more than 3 finals, including the CSAW finals since it was formed in summer 2022.
+- Micrsoft Certified Security Operations Anlayst Associate
 
-- 💼 any freelance work? do reach, [email](mailto:mid.rania@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+### System administration and Cloud/Devops journey
+- System administrator and mentor at ACM INSAT.
+- Google Cloud Certified Associate Cloud Engineer.
+
+### Quantum Computing journey
+- IBM Certified Associate Developer in Quantum computing using Qiskit
+- Qworld's QBronze and QSilver diplomas
+
+
+💼 any freelance work? do reach, [email](mailto:mid.rania@gmail.com) :)
+💬 ask me about anything, i am happy to help;
