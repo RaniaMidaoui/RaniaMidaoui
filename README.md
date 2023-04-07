@@ -42,5 +42,4 @@ Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student a
 - Qworld's QBronze and QSilver diplomas
 
 
-💼 any freelance work? do reach, [email](mailto:mid.rania@gmail.com) :)
-💬 ask me about anything, i am happy to help;
+<h4>💬 Ask me about anything, I am happy to help.</h4>
