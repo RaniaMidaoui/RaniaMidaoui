@@ -1,4 +1,4 @@
-Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student at INSAT. I'm a Cloud/DevOps and cybersecurity enthusiast.
+Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student at INSAT. I'm a Cloud/DevOps and Cybersecurity enthusiast.
 
 **Technologies, languages and tools:**  
 
@@ -31,7 +31,7 @@ Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student a
 - Played more than 20 CTFs, since 2021.
 - SOter14 is ranked first in Tunisia and made it to the top 50 globally.
 - SOter14 was qualified for more than 3 finals, including the CSAW finals since it was formed in summer 2022.
-- Micrsoft Certified Security Operations Anlayst Associate
+- Microsoft Certified Security Operations Anlayst Associate
 
 ### System administration and Cloud/Devops journey
 - System administrator and mentor at ACM INSAT.
