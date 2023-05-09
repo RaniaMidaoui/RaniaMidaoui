@@ -35,6 +35,7 @@ Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student a
 
 ### System administration and Cloud/Devops journey
 - System administrator and mentor at ACM INSAT.
+- Azure Administrator Associate (AZ-104)
 - Google Cloud Certified Associate Cloud Engineer.
 
 ### Quantum Computing journey
