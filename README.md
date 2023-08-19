@@ -21,7 +21,7 @@ Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student a
 <img src="https://cdn.cdnlogo.com/logos/m/78/mysql.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/30696987?s=280&v=4"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg"  width="40" height="40" /></a>&nbsp;
-<img src="https://cdn.cdnlogo.com/logos/p/3/python.svg](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/go.svg"  width="40" height="40" /></a>&nbsp;
+<img src="[https://cdn.cdnlogo.com/logos/p/3/python.svg](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/go.svg](https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/png/golang_35.png)"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/c/1/c-plus-plus.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/c.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/java.svg"  width="40" height="40" /></a>&nbsp;
