@@ -9,6 +9,7 @@ Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student a
 <img src="https://cdn.cdnlogo.com/logos/k/95/kubernets.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/a/51/ansible.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/terraform.png"  width="40" height="40" /></a>&nbsp;
+<img src="https://camo.githubusercontent.com/0a16218f80a1832b5244500de2367b6985e2077efc4cd1f0c71dc38a4a348740/68747470733a2f2f6a656e6b696e732e696f2f696d616765732f6c6f676f732f6a656e6b696e732f6a656e6b696e732e706e67"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/g/15/git-icon.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/l/11/linux.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/n/74/nginx.svg"  width="40" height="40" /></a>&nbsp;
@@ -20,6 +21,7 @@ Hi, I'm Rania Midaoui, an undergraduate Network and Telecommunications student a
 <img src="https://cdn.cdnlogo.com/logos/m/78/mysql.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/30696987?s=280&v=4"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg"  width="40" height="40" /></a>&nbsp;
+<img src="https://cdn.cdnlogo.com/logos/p/3/python.svg](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/go.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://cdn.cdnlogo.com/logos/c/1/c-plus-plus.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/c.svg"  width="40" height="40" /></a>&nbsp;
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/java.svg"  width="40" height="40" /></a>&nbsp;
